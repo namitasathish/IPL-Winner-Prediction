@@ -1,4 +1,4 @@
-# IPL-Winner-Prediction
+# IPL Winner Prediction
 
 This ML project predicts the winner of an IPL match based on match context such as the teams, venue, toss details, and more.
 
