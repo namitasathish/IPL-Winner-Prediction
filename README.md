@@ -2,7 +2,7 @@
 
 This ML project predicts the winner of an IPL match based on match context such as the teams, venue, toss details, and more.
 
-The system is trained on real IPL match data and enables users to interactively select match conditions to receive winner predictions with a confidence score.
+The system is trained on real IPL match data and enables users to interactively select match conditions to receive winner predictions 
 
 ## Working
 
